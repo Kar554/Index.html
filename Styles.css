@@ -1,0 +1,75 @@
+/* Applique une police de caractères pour tout le site */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Couleur de fond */
+}
+
+/* Style de l'en-tête */
+header {
+    background-color: #333; /* Couleur de fond de l'en-tête */
+    color: white; /* Couleur du texte */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style du menu de navigation */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ff6347; /* Couleur au survol */
+}
+
+/* Style du contenu principal */
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+/* Style du pied de page */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Style des liens */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #ff6347;
+}
+  
