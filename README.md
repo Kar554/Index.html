@@ -3,7 +3,7 @@ Bienvenue sur le repository de mon site web ! Ce site explique comment créer un
 ## Description
 
 Ce site est conçu pour aider les utilisateurs à comprendre les bases de la création d'un site web. Il couvre des sujets comme :
-
+g
 - Choisir un sujet pour ton site
 - Planifier la structure de ton site
 - Utiliser HTML et CSS pour concevoir ton site
